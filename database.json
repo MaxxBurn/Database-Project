@@ -1,0 +1,19 @@
+{
+    "users" : [{
+        "name": "zaryna",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "id" : 0
+    },{
+        "name": "kuro",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "id": 1
+    },{
+        "name": "shiro",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "id": 2
+    },{
+        "name": "maru",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b",
+        "id": 3 
+    }]
+}

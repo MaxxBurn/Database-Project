@@ -1,2 +1,2 @@
-# im-sad
+# Database project
 Database for the project
